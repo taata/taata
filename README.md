@@ -1,5 +1,6 @@
-### Hi, my name is Tainá. I'm frontend developer 👋
+### Hi, my name is Tainá. 👋
 
+:books: I'm frontend developer <br/>
  :computer::  I’m currently working on <a href="https://institucional.ifood.com.br/carreiras/" alt="We have vacancies"> iFood </a> <br/>
  :camera::  I'm a photographer with my hobby (<a href="https://www.instagram.com/tainarenatafotos/" alt="Tainá Instagram"> Follow me! </a>)<br/>
  😄 : Pronouns: She/his<br/>
