@@ -1,7 +1,7 @@
 ### Hi, my name is Tainá. 👋
 
 :books: I'm frontend developer <br/>
- :computer::  I’m currently working on <a href="https://institucional.ifood.com.br/carreiras/" alt="We have vacancies"> iFood </a> <br/>
+ :computer::  I’m currently working on Nomad Global <br/>
  :camera::  I'm a photographer with my hobby (<a href="https://www.instagram.com/tainarenatafotos/" alt="Tainá Instagram"> Follow me! </a>)<br/>
  😄 : Pronouns: She/his<br/>
  ⚡ Fun fact: I love to do jokes unfun :heart:<br/>
