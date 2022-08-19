@@ -3,7 +3,7 @@
 :books: I'm frontend developer <br/>
  :computer::  I’m currently working on Nomad Global <br/>
  :camera::  I'm a photographer with my hobby (<a href="https://www.instagram.com/tainarenatafotos/" alt="Tainá Instagram"> Follow me! </a>)<br/>
- 😄 : Pronouns: She<br/>
+ 😄 : Pronouns: She/Her<br/>
  ⚡ Fun fact: I love to do jokes unfun :heart:<br/>
 <br/><br/>
  :pencil: <a href="https://medium.com/@tainarenata" alt="Link of my Medium @tainarenata"> Medium</a> <br/>
